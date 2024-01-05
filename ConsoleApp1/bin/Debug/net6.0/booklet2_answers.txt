@@ -1,0 +1,5 @@
+Q14: Which of the following statements is true? ,a.	The UML models a parameter of an operation by listing the parameter name, followed by a colon and the parameter value between the parentheses after the operation name.
+Q23: Which of the following statements is false? ,a.	If a class does not define constructors, the compiler provides a default constructor with no parameters.
+Q8: Which of the following statements is false?,a.	The method�s return type specifies the type of data returned to a method�s caller.
+Q28: The format specifier %.2f specifies that two digits of precision should be output ________ in the floating-point number.,a.	to the left of the decimal point
+Q7: Which of the following statements is false?,a.	Variables declared in the body of a particular method are local variables and can be used only in that method.

@@ -1,0 +1,5 @@
+Q6: When a method terminates, the values of its local variables are ________. ,a.	saved
+Q13: Which of the following statements is false? ,a.	In the UML, each class is modeled in a class diagram as a rectangle with three compartments. The top one contains the class�s name centered horizontally in boldface. The middle one contains the class�s attributes, which correspond to instance variables in Java. The bottom one contains the class�s operations, which correspond to methods and constructors in Java.
+Q26: A __________ of a class called MyClass is another class whose methods call the methods of MyClass.,a. consumer
+Q27: The format specifier ________ is used to output values of type float or double. ,a.	%f
+Q29: Types in Java are divided into two categories. The primitive types are boolean, byte, char, short, int, long, float and double. All other types are ________  types. ,a.	static
